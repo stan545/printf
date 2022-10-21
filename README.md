@@ -3,8 +3,8 @@
 --- 
 
 ## NAME  
-	_printf - formats and prints data, with the ability to call certain 
-    conversion characters 
+	_printf - formats and prints data, with the ability to call certain conversion characters  
+
 
 ## SYNOPSIS  
          _printf FORMAT [ARGUMENT]... 
